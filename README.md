@@ -1,5 +1,4 @@
-# Challenge CTI
- Tous les challenges CTI de mon blog
- https://blog-cyber.leeloulerouge.fr/
+# Challenges CTI
 
-Attention vous avez surement besoin de télécharger le repo pour avoir accès au PDF sans bug !
+Vous retrouverez tous mes challenges CTI..
+Attention, vous avez sûrement besoin de télécharger le repo pour avoir accès au PDF sans bug !
